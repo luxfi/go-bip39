@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/gojuukaze/go-bip39/wordlists"
+	"github.com/luxfi/go-bip39/wordlists"
 )
 
 type vector struct {
